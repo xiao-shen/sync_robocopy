@@ -6,7 +6,6 @@ rem This is a comment.
 
 rem WARNING !
 rem We do not guarantee any possible DATA LOSS. Use this script with attention. Thank you. 
-rem We recommend you to test the script on sample folders first. 
 
 rem This script replicates folders from a source (left) to a destination (right).
 rem You can select the subfolders you want to replicate in a file named "sync_robo_list.txt", one subfolder per line. 
