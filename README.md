@@ -9,6 +9,5 @@ So be careful !
 
 WARNING !
 We do not guarantee any possible DATA LOSS. Use this script with attention. Thank you. 
-We recommend you to test the script on sample folders first. 
 
 Refer to the script comments for more information. 
