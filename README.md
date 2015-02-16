@@ -1,5 +1,5 @@
 # sync_robo
-Script to replicate your files. Only the modified files are copied thanks to robocopy. 
+Windows script to replicate your files. Only the modified files are copied thanks to robocopy. 
 
 This script replicates folders from a source (left) to a destination (right).
 You can select the subfolders you want to replicate in a file named "sync_robo_list.txt", one subfolder per line. 
