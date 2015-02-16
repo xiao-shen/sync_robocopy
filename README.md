@@ -9,5 +9,6 @@ So be careful !
 
 WARNING !
 We do not guarantee any possible DATA LOSS. Use this script with attention. Thank you. 
+We recommend you to manually copy your data on an external drive. And disconnect it before testing this script!
 
 Refer to the script comments for more information. 
